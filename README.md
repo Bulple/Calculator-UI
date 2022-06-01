@@ -1,2 +1,2 @@
 # Calculator
-Clean ui calc 
+Clean ui calc :)
